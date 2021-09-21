@@ -8,4 +8,4 @@
   
 ## Learnings  
   - Learned about basic Storyboard design
-  - Learned about REST Api and how to perform Post operation
+  - Learned about REST Api and how to perform basic operations
