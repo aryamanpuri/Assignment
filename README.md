@@ -1,5 +1,7 @@
 #### A Photo Uploading Application made using SwiftUI.
 
+### API used : https://catbox.moe/user/api.php
+
 ## Installation 🛠
  - Clone / download this repository.
  - change the bundle identifier in project settings.
